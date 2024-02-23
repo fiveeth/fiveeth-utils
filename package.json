@@ -1,0 +1,22 @@
+{
+  "name": "fiveeth-utils",
+  "version": "1.0.0",
+  "author": "fiveeth",
+  "description": "common toolkit",
+  "keywords": ["utils", "format", "money", "phone"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fiveeth/fiveeth-utils"
+  },
+  "license": "ISC",
+  "homepage": "https://your-package.org",
+  "bugs": "https://github.com/fiveeth/fiveeth-utils/issues", 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
